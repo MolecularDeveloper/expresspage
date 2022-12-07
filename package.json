@@ -4,7 +4,7 @@
   "description": "testing express routing",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "moment": "^2.20.1",
     "path": "^0.12.7"
   },
